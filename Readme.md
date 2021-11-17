@@ -2,7 +2,7 @@
   <b>Hi 👋, I'm draxx</b><br>
   <a href="https://discord.gg/CjaKz5v6TS">Discord</a> |
   <a href="https://www.youtube.com/channel/UCjpQyDG_lyqmo3OeDK1wsxQ">YouTube</a> |
-  <a href="https://twitter.com/Kaneki_Web">Twitter</a> |
+  <a href="https://twitter.com/__draxx">Twitter</a> |
 </p>
 
 <p align="center"><br>
