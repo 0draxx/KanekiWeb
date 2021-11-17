@@ -1,14 +1,13 @@
 <p align='center'>
-  <b>Hi 👋, I'm Kaneki</b><br>
-  <a href="https://discord.gg/bdUM6SbEpJ">Discord</a> |
-  <a href="https://www.youtube.com/channel/UC-XII5SSqbMOF1UX3N0Gl8g">YouTube</a> |
+  <b>Hi 👋, I'm draxx</b><br>
+  <a href="https://discord.gg/CjaKz5v6TS">Discord</a> |
+  <a href="https://www.youtube.com/channel/UCjpQyDG_lyqmo3OeDK1wsxQ">YouTube</a> |
   <a href="https://twitter.com/Kaneki_Web">Twitter</a> |
-  <a href="https://codepen.io/KanekiWeb">Code Pen</a>
 </p>
 
 <p align="center"><br>
-  <a href="https://github.com/KanekiWeb">
-    <img src="https://lanyard-profile-readme.vercel.app/api/841283872917422121"/>
+  <a href="https://github.com/0draxx">
+    <img src="https://lanyard-profile-readme.vercel.app/api/720765270217457684"/>
      </a>
 </p>
 
@@ -40,5 +39,5 @@
 
 <p align="center"> 
   Compteur de visites :<br>
-  <img src="https://profile-counter.glitch.me/KanekiWeb/count.svg" />
+  <img src="https://profile-counter.glitch.me/0draxx/count.svg" />
 </p>
