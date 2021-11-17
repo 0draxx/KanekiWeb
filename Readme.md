@@ -32,7 +32,7 @@
 ---  
 
 <p align="center"> 
-  Compteur de visites :<br>
+  Visitors :<br>
   <img src="https://profile-counter.glitch.me/0draxx/count.svg" />
 </p>
 
