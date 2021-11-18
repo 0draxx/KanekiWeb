@@ -1,4 +1,4 @@
-<p align='center'>
+ <p align='center'>
   <b>Hi 👋, I'm draxx</b><br>
   <a href="https://discord.gg/CjaKz5v6TS">Discord</a> |
   <a href="https://www.youtube.com/channel/UCjpQyDG_lyqmo3OeDK1wsxQ">YouTube</a> |
@@ -21,8 +21,6 @@
 	<b>My Github Stats</b><br>
     	<img src="https://github-readme-streak-stats.herokuapp.com/?user=0draxx&theme=dark&hide_border=true">
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0draxx&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
-</p>
 
 
 <p>&nbsp;</p>    
